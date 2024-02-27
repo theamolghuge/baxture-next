@@ -11,6 +11,8 @@
   "dependencies": {
     "@mantine/core": "7.6.0",
     "@mantine/hooks": "7.6.0",
+    "@tabler/icons": "^2.47.0",
+    "@tabler/icons-react": "^2.47.0",
     "next": "14.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -26,5 +28,6 @@
     "postcss-simple-vars": "^7.0.1",
     "typescript": "5.2.2"
   },
-  "packageManager": "yarn@4.0.1"
+  "packageManager": "yarn@4.0.1",
+  "frozen-lockfile": true
 }
